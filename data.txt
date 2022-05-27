@@ -1,0 +1,2 @@
+Hi, this is a sample file.
+This has been created for testing purposes.
